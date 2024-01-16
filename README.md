@@ -1,4 +1,4 @@
-# Using
+# Usage
 ```
     <SignaturePad 
       containerClass=string
